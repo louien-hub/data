@@ -1,0 +1,16 @@
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.blockquote-footer {
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card-header {
+    font-size: 10px;
+}
+
+.p-feedback {
+    font-size: 15px;
+}
